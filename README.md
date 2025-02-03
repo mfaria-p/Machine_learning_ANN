@@ -1,6 +1,7 @@
 # Machine Learning Classification
 
 This repository contains Jupyter notebooks that document my introduction to machine learning, with a specific focus on __Artificial Neural Networks (ANNs)__. 
+
 Through these projects, I explored the fundamental concepts of machine learning, including data preprocessing, model building, training, evaluation, and visualization of results. 
 
 I used __PyTorch__ as the primary framework for building and training the neural networks, which provided me with a solid foundation in understanding how ANNs function.
